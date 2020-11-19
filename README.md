@@ -32,8 +32,8 @@ We're glad you're here! We need the help of the Go community to examine our bot'
 
 Each instance falls into one of three buckets (explained further below).
 1. **Bug** - as written, the captured loop variable could lead to undesirable behavior.
+1. **Mitigated** - the captured loop variable does not escape the block of the for loop, no undesirable behavior can occur.
 1. **Desirable Behavior** - the current capture semantics are required for the correct operation of the program. Changing the behavior of the compiler would break this code.
-1. **Mitigated** - the captured loop variable does not escape the block of the for loop.
 
 ### Bugs
 
