@@ -80,4 +80,4 @@ Another common instance of mitigated use is found in tests like [this one](https
 
 We don't currently have any examples of desirable behavior which depends on the current semantics of range-loop captures. The goal of the project is to determine whether such an example exists.
 
-We don't think such an example exists. This means that any examples marked as 'Desirable' will be faced with skepticism and a high degree of scrutiny. This should not discourage reporting that they suspect desirable behavior. Let us know! We will chime in and give our view. Just be aware that we may disagree, so is important to engage with a sense of professional detachment.
+We don't think such an example exists. This means that any examples marked as 'Desirable' will be faced with skepticism and a high degree of scrutiny. This should not discourage reporting that they suspect desirable behavior. Let us know! We will chime in and give our view. Just be aware that we may disagree, so is important to engage with a sense of professional detachment. Be humble and keep learning.
